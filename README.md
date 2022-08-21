@@ -1,0 +1,2 @@
+# YOLOV5_1ST_origmodelTour
+日本人のための初めてYOLOV5(Pytorch)で独自モデルを作って動かした実例と落とし穴回避方法
